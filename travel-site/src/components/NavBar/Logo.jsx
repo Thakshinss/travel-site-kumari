@@ -2,7 +2,7 @@ import React from 'react'
 
 function Logo({children}) {
   return (
-    <h1 className='text-2xl uppercase'>
+    <h1 className='font-normal text-2xl tracking-tighter'>
         {children}
     </h1>
   )
